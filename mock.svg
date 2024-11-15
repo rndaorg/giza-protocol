@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="669pt" height="570pt" viewBox="0.00 0.00 669.44 570.00">
+<g id="graph0" class="graph" transform="translate(4,566) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-566 665.44,-566 665.44,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterGiza">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 641.44,-8 641.44,-8 647.44,-8 653.44,-14 653.44,-20 653.44,-20 653.44,-405 653.44,-405 653.44,-411 647.44,-417 641.44,-417 641.44,-417 20,-417 20,-417 14,-417 8,-411 8,-405 8,-405 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="330.72" y="-400.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Giza</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="30.18,-425 30.18,-554 365.2,-554 365.2,-425 30.18,-425" style=""/>
+<text text-anchor="middle" x="197.69" y="-537.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- Giza.onlyDeveloper -->
+<g id="node1" class="node" pointer-events="visible" data-name="Giza.onlyDeveloper">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="177.3,-354.54 177.3,-369.46 133.88,-380 72.48,-380 29.07,-369.46 29.07,-354.54 72.48,-344 133.88,-344 177.3,-354.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="181.3,-351.4 181.3,-372.6 134.36,-384 72,-384 25.07,-372.6 25.07,-351.4 72,-340 134.36,-340 181.3,-351.4" style=""/>
+<text text-anchor="middle" x="103.18" y="-357.8" font-family="Times,serif" font-size="14.00" style="">onlyDeveloper</text>
+</g>
+<!-- Giza.&lt;Constructor&gt; -->
+<g id="node2" class="node" pointer-events="visible" data-name="Giza.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="103.18" cy="-304" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-299.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- Giza.registerWorker -->
+<g id="node3" class="node" pointer-events="visible" data-name="Giza.registerWorker">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="103.18" cy="-250" rx="69.47" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-245.8" font-family="Times,serif" font-size="14.00" style="">registerWorker</text>
+</g>
+<!-- Giza.calculatePercentage -->
+<g id="node4" class="node" pointer-events="visible" data-name="Giza.calculatePercentage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="557.74" cy="-142" rx="87.91" ry="18" style=""/>
+<text text-anchor="middle" x="557.74" y="-137.8" font-family="Times,serif" font-size="14.00" style="">calculatePercentage</text>
+</g>
+<!-- Giza.distributeInitialSale -->
+<g id="node5" class="node" pointer-events="visible" data-name="Giza.distributeInitialSale">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="330.2" cy="-196" rx="87.41" ry="18" style=""/>
+<text text-anchor="middle" x="330.2" y="-191.8" font-family="Times,serif" font-size="14.00" style="">distributeInitialSale</text>
+</g>
+<!-- Giza.distributeInitialSale&#45;&gt;Giza.calculatePercentage -->
+<g id="edge1" class="edge" data-name="Giza.distributeInitialSale-&gt;Giza.calculatePercentage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M390.75,-181.74C419.53,-174.85 454.31,-166.53 484.58,-159.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="485.39,-162.68 494.3,-156.95 483.76,-155.87 485.39,-162.68" style=""/>
+</g>
+<!-- Giza.payable -->
+<g id="node11" class="node" pointer-events="visible" data-name="Giza.payable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="557.74" cy="-196" rx="41.13" ry="18" style=""/>
+<text text-anchor="middle" x="557.74" y="-191.8" font-family="Times,serif" font-size="14.00" style="">payable</text>
+</g>
+<!-- Giza.distributeInitialSale&#45;&gt;Giza.payable -->
+<g id="edge2" class="edge" data-name="Giza.distributeInitialSale-&gt;Giza.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M419.05,-196C447.14,-196 477.41,-196 502.4,-196" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="502.29,-199.5 512.29,-196 502.29,-192.5 502.29,-199.5" style=""/>
+</g>
+<!-- Giza.distributeResaleRoyalty -->
+<g id="node6" class="node" pointer-events="visible" data-name="Giza.distributeResaleRoyalty">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="330.2" cy="-142" rx="103.67" ry="18" style=""/>
+<text text-anchor="middle" x="330.2" y="-137.8" font-family="Times,serif" font-size="14.00" style="">distributeResaleRoyalty</text>
+</g>
+<!-- Giza.distributeResaleRoyalty&#45;&gt;Giza.calculatePercentage -->
+<g id="edge3" class="edge" data-name="Giza.distributeResaleRoyalty-&gt;Giza.calculatePercentage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M435.06,-142C441.89,-142 448.77,-142 455.59,-142" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="455.58,-145.5 465.58,-142 455.58,-138.5 455.58,-145.5" style=""/>
+</g>
+<!-- Giza.distributeResaleRoyalty&#45;&gt;Giza.payable -->
+<g id="edge4" class="edge" data-name="Giza.distributeResaleRoyalty-&gt;Giza.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M394.93,-157.26C430.58,-165.79 474.35,-176.27 507.37,-184.18" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="506.42,-187.55 516.96,-186.48 508.05,-180.74 506.42,-187.55" style=""/>
+</g>
+<!-- Giza.initialSale -->
+<g id="node7" class="node" pointer-events="visible" data-name="Giza.initialSale">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="103.18" cy="-196" rx="50.39" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-191.8" font-family="Times,serif" font-size="14.00" style="">initialSale</text>
+</g>
+<!-- Giza.initialSale&#45;&gt;Giza.distributeInitialSale -->
+<g id="edge5" class="edge" data-name="Giza.initialSale-&gt;Giza.distributeInitialSale">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.96,-196C176.81,-196 203.15,-196 228.66,-196" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="228.47,-199.5 238.47,-196 228.47,-192.5 228.47,-199.5" style=""/>
+</g>
+<!-- Giza.resale -->
+<g id="node8" class="node" pointer-events="visible" data-name="Giza.resale">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="103.18" cy="-142" rx="33.6" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-137.8" font-family="Times,serif" font-size="14.00" style="">resale</text>
+</g>
+<!-- Giza.resale&#45;&gt;Giza.distributeResaleRoyalty -->
+<g id="edge6" class="edge" data-name="Giza.resale-&gt;Giza.distributeResaleRoyalty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M137.87,-142C158.09,-142 185.13,-142 212.5,-142" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="212.47,-145.5 222.47,-142 212.47,-138.5 212.47,-145.5" style=""/>
+</g>
+<!-- Giza.getContractBalance -->
+<g id="node9" class="node" pointer-events="visible" data-name="Giza.getContractBalance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="103.18" cy="-88" rx="87.37" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-83.8" font-family="Times,serif" font-size="14.00" style="">getContractBalance</text>
+</g>
+<!-- Giza.&lt;Receive Ether&gt; -->
+<g id="node10" class="node" pointer-events="visible" data-name="Giza.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="103.18" cy="-34" rx="76.21" ry="18" style=""/>
+<text text-anchor="middle" x="103.18" y="-29.8" font-family="Times,serif" font-size="14.00" style="">&lt;Receive Ether&gt;</text>
+</g>
+<!-- key -->
+<g id="node12" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="168.18,-521 38.18,-521 38.18,-433 168.18,-433 168.18,-521" style=""/>
+<text text-anchor="start" x="87.82" y="-502.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="83.93" y="-482.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="61.39" y="-462.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="47.79" y="-442.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="357.2,-521 303.2,-521 303.2,-433 357.2,-433 357.2,-521" style=""/>
+<text text-anchor="start" x="320.2" y="-502.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="320.2" y="-482.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="318.2,-457 318.2,-477 343.2,-477 343.2,-457 318.2,-457" style=""/>
+<text text-anchor="start" x="320.2" y="-462.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="320.2,-439 320.2,-455 341.2,-455 341.2,-439 320.2,-439" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M161.18,-507C226.06,-507 245.41,-507 304.41,-507" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="304.17,-510.5 314.17,-507 304.17,-503.5 304.17,-510.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M161.18,-487C226.06,-487 245.41,-487 304.41,-487" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="304.17,-490.5 314.17,-487 304.17,-483.5 304.17,-490.5" style=""/>
+</g>
+</g>
+</svg>
